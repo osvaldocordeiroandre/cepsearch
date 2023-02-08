@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cepsearch/static/css/main.e91c0b7e.css",
+    "main.js": "/cepsearch/static/js/main.c4998fd9.js",
+    "index.html": "/cepsearch/index.html",
+    "main.e91c0b7e.css.map": "/cepsearch/static/css/main.e91c0b7e.css.map",
+    "main.c4998fd9.js.map": "/cepsearch/static/js/main.c4998fd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e91c0b7e.css",
+    "static/js/main.c4998fd9.js"
+  ]
+}
